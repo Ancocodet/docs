@@ -1,5 +1,12 @@
-# Page title here
+---
+title: Welcome
+label: Welcome
+layout: page
+icon: home
+order: 100
+---
 
+# Welcome
 This is a paragraph.
 
 Both [internal](README.md) and [external](https://example.com) links work.
