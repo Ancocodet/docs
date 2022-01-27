@@ -1,13 +1,14 @@
 ---
+date: 2022-02-27
 title: Welcome
 label: Welcome
 layout: page
 icon: home
-order: 100
 ---
 
 # Welcome
-This is a paragraph.
+
+Welcome on our docs.
 
 Both [internal](README.md) and [external](https://example.com) links work.
 
