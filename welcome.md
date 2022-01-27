@@ -2,7 +2,6 @@
 date: 2022-02-27
 title: Welcome
 label: Welcome
-layout: page
 icon: home
 ---
 
