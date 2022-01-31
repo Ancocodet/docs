@@ -4,7 +4,9 @@ title: Changelog
 label: Changelog
 order: 98
 tags: [changes]
-author: Ancocodet
+author: 
+    name: Ancocodet
+    avatar: ../ressources/avatar-ancocodet.png
 ---
 
 # Changelog

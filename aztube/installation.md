@@ -2,9 +2,11 @@
 date: 2022-01-31
 title: Installation
 label: Installation
-author: Ancocodet
 tags: [guide, installation]
 order: 99
+author: 
+    name: Ancocodet
+    avatar: ../ressources/avatar-ancocodet.png
 ---
 
 ## Extension Installation

@@ -4,7 +4,9 @@ title: Introduction
 label: Introduction
 order: 100
 tags: [guide]
-author: Ancocodet
+author: 
+    name: Ancocodet
+    avatar: ../ressources/avatar-ancocodet.png
 ---
 
 # What is AzTube Downloader?
