@@ -17,7 +17,7 @@ Here you can find all information about contributing and/or setting up our proje
 
 ---
 
-## We currently have documentation for the following projects/products:
+## Products/Projects:
 
 - Lobby
-- [!ref](aztube/introduction.md)
+- [!ref text="AzTube Downloader"](aztube/introduction.md)
