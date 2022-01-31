@@ -39,7 +39,7 @@ You can link your devices with the following steps:
 
 ## How to send videos to my phone
 
-1. Go to [!ref target="blank" text="YouTube"](https://youtube.com) and start a video of your choice
+1. Go to [YouTube](https://youtube.com) and start a video of your choice
     - There should be a download icon at the height of the subscription button
 2. Click on the download icon added by the extension (not the one from YouTube)
     - Now a popup should have opened
