@@ -19,8 +19,8 @@ AzTube Downloader is a project that consists of a browser extension and an app t
 
 To use AzTube Downloader the following requirements must be met:
 
-- The extension is installed in your browser [more](installation.md#extension-installation)
-- The app is installed on your phone [more](installation.md#app-installation)
+- The extension is installed in your browser [(more)](installation.md#extension-installation)
+- The app is installed on your phone [(more)](installation.md#app-installation)
 
 If these requirements are met, a connection between the devices can be established.
 

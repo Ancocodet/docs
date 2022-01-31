@@ -16,7 +16,9 @@ There is currently no official release in the ChromeStore or the like.
 
 You can install AzTube Extension with the following steps.
 
-1. Download the latest Version of the Extension [As Zip](https://jenkins.lucaspape.de/job/aztube-extension/lastSuccessfulBuild/artifact/aztube-extension.zip) or [As Crx](https://jenkins.lucaspape.de/job/aztube-extension/lastSuccessfulBuild/artifact/aztube-extension.crx)
+1. Download the latest Version of the Extension 
+[!file Latest ZIP](https://jenkins.lucaspape.de/job/aztube-extension/lastSuccessfulBuild/artifact/aztube-extension.zip)
+[!file Latest Crx](https://jenkins.lucaspape.de/job/aztube-extension/lastSuccessfulBuild/artifact/aztube-extension.crx)
 2. Open your Browser Extension View and enable the Development mode
 3. Drag the downloaded file to the opened area
 
@@ -31,7 +33,8 @@ There is currently no official release in the PlayStore or the like.
 
 You can install AzTube App with the following steps.
 
-1. Download the latest Version of the App to your phone [here](https://jenkins.lucaspape.de/job/aztube-app/lastSuccessfulBuild/artifact/build/app/outputs/flutter-apk/app-release.apk)
+1. Download the latest Version of the App to your phone 
+[!file Latest APK](https://jenkins.lucaspape.de/job/aztube-app/lastSuccessfulBuild/artifact/build/app/outputs/flutter-apk/app-release.apk)
 2. Install the App to your device
     - You may need to enable the install for insecure sources
 
