@@ -20,4 +20,4 @@ Here you can find all information about contributing and/or setting up our proje
 ## We currently have documentation for the following projects/products:
 
 - Lobby
-- AzTube Downloader
+- [!ref](aztube/introduction.md)
