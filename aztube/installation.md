@@ -16,7 +16,7 @@ There is currently no official release in the ChromeStore or the like.
 
 You can install AzTube Extension with the following steps.
 
-1. Download the latest Version of the Extension [As Zip](https://jenkins.lucaspape.de/job/aztube-extension/lastSuccessfulBuild/artifact/aztube-extension.zip)[As Crx](https://jenkins.lucaspape.de/job/aztube-extension/lastSuccessfulBuild/artifact/aztube-extension.crx)
+1. Download the latest Version of the Extension [As Zip](https://jenkins.lucaspape.de/job/aztube-extension/lastSuccessfulBuild/artifact/aztube-extension.zip) or [As Crx](https://jenkins.lucaspape.de/job/aztube-extension/lastSuccessfulBuild/artifact/aztube-extension.crx)
 2. Open your Browser Extension View and enable the Development mode
 3. Drag the downloaded file to the opened area
 
