@@ -1,32 +1,23 @@
 ---
-date: 2022-02-27
+date: 2022-01-31
 title: Welcome
 label: Welcome
 icon: home
 ---
 
+!!!warning
+This page is still under construction, so some pages and information are still missing.
+!!!
+
 # Welcome
 
-Welcome on our docs.
+Welcome to our docs.
 
-Both [internal](README.md) and [external](https://example.com) links work.
-
-Another paragraph with **bold**, _italic_, ~~strikethrough~~, and `code` samples.
+Here you can find all information about contributing and/or setting up our projects and products. 
 
 ---
 
-## Lists
+## We currently have documentation for the following projects/products:
 
-- First item
-- Second item
-- Third item
-
-1. First item
-2. Second item
-3. Third item
-
-> "Cool! This is a quotation."
-
-!!!
-Need to draw attention to something? Use an alert.
-!!!
+- Lobby
+- AzTube Downloader

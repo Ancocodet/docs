@@ -2,12 +2,12 @@ input: .
 output: .retype
 url: https://ancocodet.github.io/docs/
 branding:
-  title: Ancocodet Docs
-  label: 1.0
+  title: Ancocodet
+  label: Docs
 links:
   - text: Website
     link: https://ancozockt.de
   - text: Blog
     link: https://blog.ancozockt.de
 footer:
-  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  copyright: "&copy; Copyright {{ year }}. [Ancozockt Environment](https://ancozockt.de) All rights reserved."
