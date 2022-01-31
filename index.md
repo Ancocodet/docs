@@ -15,9 +15,8 @@ Welcome to our docs.
 
 Here you can find all information about contributing and/or setting up our projects and products. 
 
----
 
 ## Products/Projects:
 
-- Lobby
-- [!ref text="AzTube Downloader"](aztube/introduction.md)
+[!ref text="Lobby"](lobby/introduction.md)
+[!ref text="AzTube Downloader"](aztube/introduction.md)

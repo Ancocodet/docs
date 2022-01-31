@@ -3,6 +3,7 @@ date: 2022-01-31
 title: Installation
 label: Installation
 author: Ancocodet
+tags: [guide, installation]
 order: 99
 ---
 

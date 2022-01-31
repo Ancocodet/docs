@@ -3,10 +3,11 @@ date: 2022-01-31
 title: Introduction
 label: Introduction
 order: 100
+tags: [guide]
 author: Ancocodet
 ---
 
-## What is AzTube Downloader?
+# What is AzTube Downloader?
 
 AzTube Downloader is a project that consists of a browser extension and an app that communicate with each other.
 
