@@ -31,10 +31,10 @@ You can link your devices with the following steps:
 1. Click on the AzTube icon in your browser
     - Now a popup should have appeared
     - For easier use it is recommended to pin the extension
-2. Now click on the "Add Device" button in the popup that appears
-    - Now instead of the "Add Device" button a QR code should have appeared
+2. Now click on the "Add Device" image in the popup that appears
+    - Now instead of the "Add Device" image a QR code should have appeared
 3. Now open the AzTube Downloader app on your phone and click on "Link Device"
-    - Authorization to use the camera is required for the linking process
+    - **Authorization to use the camera is required for the linking process**
     - You should now see a QR code reader
 4. Scan the QR code that appeared in the extension in 2.
     - Now you should be on a blank dashboard page
