@@ -11,3 +11,5 @@ links:
     link: https://blog.ancozockt.de
 footer:
   copyright: "&copy; Copyright {{ year }}. [Ancozockt Environment](https://ancozockt.de) All rights reserved."
+gravatar:
+  enabled: true
