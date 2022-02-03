@@ -36,6 +36,7 @@ The extension should now be installed and can be deactivated again via the same 
 There is currently no official release in the PlayStore or the like.
 !!!
 == Others
+
 You can install AzTube Downloader App with the following steps.
 
 1. Download the latest Version of the App to your phone 
@@ -44,10 +45,6 @@ You can install AzTube Downloader App with the following steps.
     - You may need to enable the install for insecure sources
 
 The app should now have been successfully installed on your device.
-
-!!!danger
-There is currently no update mechanism available, so updates must be performed manually.
-!!!
 ==- Huawai App Gallery
 We are currently working on an official release in the Huawai AppGallery, as soon as this was successful further information can be found here.
 
