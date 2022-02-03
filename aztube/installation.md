@@ -35,7 +35,7 @@ The extension should now be installed and can be deactivated again via the same 
 !!!info
 There is currently no official release in the PlayStore or the like.
 !!!
-!!!
+
 ==- Huawai App Gallery
 We are currently working on an official release in the Huawai AppGallery, as soon as this was successful further information can be found here.
 
