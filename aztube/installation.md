@@ -10,6 +10,9 @@ author:
 ---
 
 ## Extension Installation
+!!!info
+There is currently only one official release available for firefox.
+!!!
 
 +++ Firefox
 You can install the Extension via the Firefox Addon Store.
@@ -33,7 +36,12 @@ The extension should now be installed and can be deactivated again via the same 
 There is currently no official release in the PlayStore or the like.
 !!!
 
-You can install AzTube App with the following steps.
+==- Huawai App Gallery
+We are currently working on an official release in the Huawai AppGallery, as soon as this was successful further information can be found here.
+==- Google Play Store
+Currently, a release in the Google Play Store is not planned due to cost reasons.
+== Others
+You can install AzTube Downloader App with the following steps.
 
 1. Download the latest Version of the App to your phone 
 [!file Latest APK](https://jenkins.lucaspape.de/job/aztube-app/lastSuccessfulBuild/artifact/build/app/outputs/flutter-apk/app-release.apk)
@@ -45,7 +53,7 @@ The app should now have been successfully installed on your device.
 !!!danger
 There is currently no update mechanism available, so updates must be performed manually.
 !!!
-
+==
 +++ IOS
 We are sorry but currently no IOS version of our app is available.
 However, an IOS version is being worked on, but it is not yet clear if and when this will be available.
