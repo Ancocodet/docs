@@ -41,8 +41,8 @@ We are currently working on an official release in the Huawai AppGallery, as soo
 
 ==- Google Play Store
 Currently, a release in the Google Play Store is not planned due to cost reasons.
+==-
 
-==
 **Inofficial Releases**
 You can install AzTube Downloader App with the following steps.
 
