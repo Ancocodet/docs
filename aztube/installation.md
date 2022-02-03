@@ -10,10 +10,11 @@ author:
 ---
 
 ## Extension Installation
-!!!info
-There is currently no official release in the ChromeStore or the like.
-!!!
 
++++ Firefox
+You can install the Extension via the Firefox Addon Store.
+[!ref Addonpage](https://addons.mozilla.org/firefox/addon/aztube-downloader/)
++++ Others
 You can install AzTube Extension with the following steps.
 
 1. Download the latest Version of the Extension 
@@ -23,6 +24,7 @@ You can install AzTube Extension with the following steps.
 3. Drag the downloaded file to the opened area
 
 The extension should now be installed and can be deactivated again via the same page.
++++
 
 ## App Installation
 
