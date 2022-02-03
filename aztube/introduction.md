@@ -56,3 +56,10 @@ When downloads are listed in your dashboard you have the following options to do
 
 1. If background downloading is enabled, the download will start automatically even if the app is not open.
 2. Click on the download icon next to the video and the download will start
+
+## Privacy and Terms
+
+[!ref Privacy Policy](https://www.app-privacy-policy.com/live.php?token=P9NeOQEHYtWddG2NKYCpn61Lp2CSOGVj)
+[!ref Terms and Conditions](https://www.app-privacy-policy.com/live.php?token=hYXz1idDYexlrASbTrUfbMl8XRrDjrTh)
+[!ref EULA](https://www.app-privacy-policy.com/live.php?token=ctGZzNqNeyBfWm7IuE2VQqTLG3mEWCYd)
+[!ref Disclaimer](https://www.app-privacy-policy.com/live.php?token=qIHA3H1ZmShfrN3i4xcNnt0LZ3GkjI73)
