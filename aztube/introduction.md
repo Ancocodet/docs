@@ -34,8 +34,8 @@ You can link your devices with the following steps:
 2. Now click on the "Add Device" image in the popup that appears
     - Now instead of the "Add Device" image a QR code should have appeared
     ==- Screenshots
-    ![Add Device Region](../ressources/add-device-region.png "Click on that region")
-    ![After click](../ressources/generate-code.png "After click code should appear")
+    ![Add Device Region](../ressources/add-device-region.png)
+    ![Generated Code](../ressources/generated-code.png)
     ==-
 3. Now open the AzTube Downloader app on your phone and click on "Link Device"
     - **Authorization to use the camera is required for the linking process**
